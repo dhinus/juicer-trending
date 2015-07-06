@@ -1,5 +1,9 @@
 # juicer-trending
 
+Experimental prototype using [Om](https://github.com/omcljs/om) and
+[Juicer](http://docs.bbcnewslabs.co.uk/Juicer-2.html).
+
+Created with [Chestnut](http://plexus.github.io/chestnut/).
 
 ## Development
 
@@ -81,11 +85,7 @@ Now your app is running at
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Francesco Negri
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
-
-## Chestnut
-
-Created with [Chestnut](http://plexus.github.io/chestnut/) 0.8.0 (2f7d13c6).
